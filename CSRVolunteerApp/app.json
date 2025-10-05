@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "CSR Volunteer Matching",
+    "slug": "csr-volunteer-matching",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {},
+    "extra": {
+      "apiBaseUrl": "https://interinhibitive-tracklaying-venita.ngrok-free.dev"
+    }
+  }
+}
